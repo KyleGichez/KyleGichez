@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a full-stack software developer with experience in Python, and Flask.
-I build Progrssive Web Apps that help solve customer-service niches in the marketplace.
+I build Progrssive Web Apps that solve customer-service niches in the marketplace.
