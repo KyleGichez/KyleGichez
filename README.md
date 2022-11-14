@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a full-stack software developer with experience in Python, and Flask. I am currently working on an E-commerce website market place for selling products online that will enable customers to shop their desired products at affordable prices. I am looking forward to providing the best quality service online marketplace platform and help businesses adapt to offering digital customer services.
+I'm a full-stack software developer with experience in Python, and Flask.
+I build Progrssive Web Apps that help solve customer-service niches in the marketplace.
