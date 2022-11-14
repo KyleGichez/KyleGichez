@@ -1,5 +1,5 @@
 ### Hi, Ninja 🥷👋
-#### Here coding is our culture 💻 grab yah favorite machine 🖥️ and let's put in work 🧑‍💻 for a ✔️win
+Here coding is our culture, grab yah favorite machine 💻 🖱️ 🖥️ and let's put in work for a win 💰 ✔️
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
