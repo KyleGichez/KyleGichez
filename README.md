@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a full-stack software developer with experience in Python, and Flask.
 I build Progrssive Web Apps that solve customer-service niches in the marketplace.
-/n
 - This is my professional work place to learn, educate myself about coding core concepts, gather valuable information about GitHub Apps and GitHub workflows that makes me inspired towards achieving success in my professional journey as a Software Developer.
