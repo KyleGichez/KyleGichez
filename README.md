@@ -1,5 +1,5 @@
 ### Hi, Ninja 🥷👋
-Here coding is our culture grab your favorite computer set-up or workstation 🖥️, and let's put in work for a win 💰 ✔️
+Here coding is our culture grab your favorite computer set-up or workstation, and let's put in work for a win 💰 ✔️
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software developer with experience in Javascript, Python, and Flask.
-I build Progrssive Web Apps that solve customer-service niches in the marketplace.
-- This is my professional work place to learn, educate myself about coding core concepts, gather valuable information about GitHub Apps and GitHub workflows that makes me inspired towards achieving success in my professional journey as a Software Developer.
+I'm a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. Allow me to introduce myself then I'll take you through my professional work portfolio.
+
+I have collaborated,learned, and gained experience in designing, interpretation, and development of the Front-end user interface / user experience through my past successful and currently ongoing software development projects. 
+
+Currently, my team and I are building Progressive Web Apps that are aimed at improving customer service in the digital marketplace today.
+- This is my professional work place to learn, educate myself about coding core concepts, gather valuable information about GitHub Apps, and GitHub workflows in order to find creative solutions that make me inspired towards achieving success in my professional journey as a Software Developer.
