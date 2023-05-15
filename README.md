@@ -1,4 +1,4 @@
-### Hi, Ninja 🥷👋
+### Hello to you my fellow colleagues and Tech Ninjas 🥷👋
 Here coding is our culture grab your favorite computer set-up or workstation, and let's put in work for a win 💰 ✔️
 
 <!--
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. Allow me to introduce myself then I'll take you through my professional work portfolio.
+My name is Gichure Maina and I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success and investment mindset in the Software development industry.
+I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day.
 
-I have collaborated, learned, and gained experience in designing, interpretation, and development of software through my past successful and currently ongoing software development projects.
+I have collaborated, learned, and gained experience in designing, interpretation, and development of software systems through my past successful and currently ongoing software development projects for my clients.
+
+Without much further a do, let me take you through my professional work portfolio.
 
