@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success, enterepreneureship, and investments in the Software development industry aiming to make the world a better place every day.
+I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success, enterepreneureship, and actively investing in the Software development industry aiming to make the world a better place every day.
 
 I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day and I am blessed to be part of a great and amazing team inspiring and mentoring aspiring young techies around the world.
 
