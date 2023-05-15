@@ -1,5 +1,5 @@
 ### Hello to you my fellow colleagues and Tech Ninjas 🥷👋
-Here coding is our culture grab your favorite computer set-up or workstation, and let's put in work for great success and achievements. 💰 ✔️
+Here coding is our culture grab your favorite computer workstation, and let's put in work for great career success and achievements.💰 ✔️
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
