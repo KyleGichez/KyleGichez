@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Gichure Maina and I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success and investment mindset in the Software development industry.
+My name is Gichure Maina and I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success and investing in the Software development industry aiming to make the world a better place.
 
 I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day.
 
