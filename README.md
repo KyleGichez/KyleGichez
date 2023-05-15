@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I am a software developer with experience in Javascript, Python, Bootstrap 5 and Flask. I am an active learner with a growth mindset driven by success, enterepreneureship, and investments in the Software development industry aiming to make the world a better place every day.
 
-I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day.
+I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day and I am blessed to be part of a great and amazing team inspiring and mentoring aspiring young techies around the world.
 
 I have collaborated, learned, and gained experience in designing, interpretation, and development of software systems through my past successful and currently ongoing software development projects for my clients.
 
