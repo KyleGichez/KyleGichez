@@ -1,5 +1,5 @@
 ### Hello to you my fellow colleagues and Tech Ninjas 🥷👋
-Here software development is our culture, let's put in work for great career success and achievements in our lives.💰 ✔️
+Software development is our culture, let's put in work for great career success and achievements in our lives.💰 ✔️
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
