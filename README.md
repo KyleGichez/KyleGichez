@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer with experience in Javascript, Python3, Bootstrap 5, and Flask. I am an active learner with a growth mindset driven by success, enterepreneurship, and actively investing in the software development industry aiming to make the world a better place every day.
+I am a software developer with experience in Javascript, Python3, Bootstrap 5, and Flask. I am an active learner with a growth mindset driven by success, entrepreneurship, and actively investing in the software development industry aiming to make the world a better place every day.
 
-I am always excited about future technology because of the revolutionary ideas that are implemented by software developers every single day. I am blessed to be part and parcel of a great and amazing team of software developers inspiring, mentoring, and teaching young aspiring techies around the world.
+I am always fascinated with technology because of the revolutionary ideas that are implemented by software developers every single day. I am blessed to be part and parcel of a great and amazing team of software developers inspiring, mentoring, and teaching young aspiring techies currently based in Nairobi, Kenya.
 
-I have collaborated, learned, and gained experience in designing, interpretation, and development of software systems through my past successful and currently ongoing software development projects with my clients.
+For the past 2 years, I have professionally collaborated, learned, and gained experience in software MVC; designing, interpreting, developing, and testing software systems through hard work and dedication to my career in software development.
 
-Without much further a do, let me take you through my professional work portfolio.
+Without much further ado, it's time to engage you with my GitHub repositories.
 
