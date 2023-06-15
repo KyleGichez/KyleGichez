@@ -1,6 +1,4 @@
-### Hello to you my fellow colleagues and Tech Ninjas 🥷👋
-Software development is our culture, let's put in work for great career success and achievements in our lives.💰 ✔️
-
+### Hello my fellow colleagues and Tech Ninjas 🥷👋
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +19,6 @@ I am always fascinated with technology because of the revolutionary ideas that a
 
 For the past 2 years, I have professionally collaborated, learned, and gained experience in software MVC; designing, interpreting, developing, and testing software systems through hard work and dedication to my career in software development.
 
-Without much further ado, it's time to engage you with my GitHub repositories.
+Without much further ado, let's put in work for great career success and achievements in our lives.💰 ✔️
+
 
