@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer with experience in Javascript, React JS, Python3, Bootstrap 5, and Flask. 
-
-I am an active learner with a growth mindset driven by success, entrepreneurship, and actively investing in the software development industry aiming to make the world a better place every day.
-
-I am blessed to be part and parcel of a great and amazing team of software developers inspiring, mentoring, and teaching young aspiring techies currently based in Nairobi, Kenya.
-
-For the past 2 years, I have professionally collaborated, learned, and gained experience in software MVC; designing, interpreting, developing, and testing software systems through hard work and dedication to my career in software development.
-
-Without much further ado, let's put in work for great career success and achievements in our lives.💰 ✔️
+Software Engineer at SAMIS Software & IT Company
 
 
