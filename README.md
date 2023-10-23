@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I work as a Software Engineer at SAMIS Software & IT Company
+Software Engineer at SAMIS Software & IT Company
 
 
