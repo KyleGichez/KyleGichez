@@ -1,4 +1,4 @@
-### Hello Tech Ninjas🥷👋
+### Sofware Engineer 🥷👋
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
