@@ -1,4 +1,4 @@
-## Hay! My name is Gichure Maina and I am a Sofware Developer 🥷👋
+## Software Developer 🥷👋
 
 
 ![github-header-image](https://github.com/user-attachments/assets/7650c5f9-539b-4dde-b5b3-91795cafefc2)
