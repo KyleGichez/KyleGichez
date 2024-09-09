@@ -1,4 +1,8 @@
 ### Sofware Engineer 🥷👋
+
+
+![github-header-image](https://github.com/user-attachments/assets/7650c5f9-539b-4dde-b5b3-91795cafefc2)
+
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
