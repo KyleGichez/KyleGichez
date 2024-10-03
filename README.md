@@ -1,6 +1,6 @@
 ## Software Developer at CodeKraft Tutorials 🥷👋
 
-![github-header-image](https://github.com/user-attachments/assets/094e1663-8ea0-4a6c-aae5-565ae2405121)
+![github-header-image](https://github.com/user-attachments/assets/9606b04c-4fe1-4c0b-8362-e99915f4329a)
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
