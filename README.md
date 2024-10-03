@@ -1,4 +1,4 @@
-## Software Engineer 🥷 👋 @ CodeKraft Tutorials 
+## Software Engineer @ CodeKraft Tutorials 🥷 👋
 
 ![github-header-image](https://github.com/user-attachments/assets/9606b04c-4fe1-4c0b-8362-e99915f4329a)
 
