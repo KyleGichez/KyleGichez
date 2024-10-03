@@ -1,6 +1,6 @@
 ## Software Developer at CodeKraft Tutorials 🥷👋
 
-![github-header-image(1)](https://github.com/user-attachments/assets/d28503eb-e2dd-402a-9c24-06ba547b33f5)
+![github-header-image](https://github.com/user-attachments/assets/094e1663-8ea0-4a6c-aae5-565ae2405121)
 
 <!--
 **KyleGichez/KyleGichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
